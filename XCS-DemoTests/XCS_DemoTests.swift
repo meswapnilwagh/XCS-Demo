@@ -4,7 +4,7 @@
 //
 //  Created by Shashikant Jagtap on 07/06/2017.
 //  Copyright © 2017 Shashikant Jagtap. All rights reserved.
-//
+// Testing build automation
 
 import XCTest
 @testable import XCS_Demo
